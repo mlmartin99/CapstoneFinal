@@ -1,0 +1,6 @@
+pilot:
+  ros__parameters:
+    left_speed: 110 
+    right_speed: 146
+    foward_speed: 110
+    backward_speed: 146

@@ -1,0 +1,13 @@
+Path_Plan:
+  ros__parameters:
+    left_speed: 109
+    right_speed: 151
+    straight_speed: 85
+    pweight: 13.0  # base turning torque "speed" factor
+    iweight: 0.9  # turning torque "acceleration" factor
+    close_multplier: 0.9  # torque multiplier for when ball is close
+    min_torque: 0
+    max_torque: 30
+    not_centered_width: 0.65
+    centered_width: 0.1
+    close_centered_width: 0.05

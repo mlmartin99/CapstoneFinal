@@ -1,0 +1,8 @@
+// launch
+ros2 launch src/tennis_pal_bringup/launch/full_bot.py
+
+// stop state
+ros2 service call /request_state state_interface/srv/RequestState "{requested_state: {state: 0}}"
+
+// auto state
+ros2 service call /request_state state_interface/srv/RequestState "{requested_state: {state: 2}}"

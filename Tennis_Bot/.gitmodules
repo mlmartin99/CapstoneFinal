@@ -1,0 +1,30 @@
+[submodule "src/detections"]
+	path = src/detections
+	url = git@github.com:ECE4600-2023-G03/detections.git
+[submodule "src/uart-bridge"]
+	path = src/uart-bridge
+	url = git@github.com:ECE4600-2023-G03/uart-bridge.git
+[submodule "src/camera_distributor"]
+	path = src/camera_distributor
+	url = git@github.com:ECE4600-2023-G03/camera_distributor.git
+[submodule "src/state_interface"]
+	path = src/state_interface
+	url = git@github.com:ECE4600-2023-G03/state_interface.git
+[submodule "src/state_machine"]
+	path = src/state_machine
+	url = git@github.com:ECE4600-2023-G03/state_machine.git
+[submodule "src/pilot"]
+	path = src/pilot
+	url = git@github.com:ECE4600-2023-G03/pilot.git
+[submodule "src/cpp_path_plan"]
+	path = src/cpp_path_plan
+	url = git@github.com:ECE4600-2023-G03/cpp_path_plan.git
+[submodule "website"]
+	path = website
+	url = git@github.com:ECE4600-2023-G03/website.git
+[submodule "src/UI_Translation"]
+	path = src/UI_Translation
+	url = git@github.com:ECE4600-2023-G03/UI_Translation.git
+[submodule "src/web_video_server"]
+	path = src/web_video_server
+	url = git@github.com:ECE4600-2023-G03/web_video_server.git
